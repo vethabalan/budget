@@ -3,7 +3,7 @@ def chennai(budget):                    #defining a function for chennai and inp
     onion = 30                              
     tomato = 15
     petrol_expense = 3/budget*budget                  # assign variables and giving them values and print it.
-    print("nionnion",budget/onion)
+    print("onion",budget/onion)
     print("tomato",budget/tomato)
     print("petrol expense",petrol_expense)
 
